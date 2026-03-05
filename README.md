@@ -1,8 +1,4 @@
-# BIO726P_Unix_and_Genomics_Module_Websit
-
-## Contribution
-
-Here are instructions on how to update/add new tutorials
+# MSc Project Guide 
 
 ### Setting up
 
@@ -47,15 +43,7 @@ nav:
   - Home: 
     - index.md
     - connecting-github.md
-  - Introduction: 
-      - introduction/intro-to-linux.md
-      - introduction/mapping.md
-      - introduction/variant-detection.md
-      - introduction/assembly.md
-      - introduction/task.md
 ```
-
-To add a new tutorial you can just add a new line under the relevant section. The indentation is important so make sure you keep it the same.
 
 #### Images
 
@@ -64,53 +52,4 @@ All images can be placed using the following notation
 ```
 ![mapping_1](../img/Mapping_1.jpg)
 ```
-
-#### Questions
-
-If there is a question that you want the participant to think about you can format it like this:
-
-```
-!!! question "Question 1"
-    Is this a question?
-```
-
-If your question has a specific answer you can use the following formatting
-
-```
-!!! question
-    === "Question 1"
-        Is this a question?
-    === "Answer 1"
-        This is an answer
-```
-
-#### Information
-
-Tips and information can be inserted using the following:
-
-```
-!!! info
-    This is some information
-```
-
-#### Terminal output
-
-If you want to put in some expected output from the terminal that the participants can compare to then this will work:
-
-```
-!!! terminal "Terminal output"
-    ```
-    This is osme terminal output
-    ```
-```
-#### Code
-
-Code can be inserted with the the triple backticks (without the backslash):
-
-```
-\```
-some_command -a parameter1
-\```
-```
-
 
