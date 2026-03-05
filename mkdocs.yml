@@ -1,5 +1,8 @@
 site_name: MSc Project Guide Book
 
+site_url: https://matthewhiggins2017.github.io/MSc_Project_Guide/
+repo_url: https://github.com/MatthewHiggins2017/MSc_Project_Guide
+
 theme:
   name: material
   language: en

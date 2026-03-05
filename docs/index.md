@@ -45,7 +45,7 @@ The dissertation should be no more than **10,000 words** and the total duration 
 
 If you ever feel hesitant to ask for help because you worry it might be seen as a lack of ability, please know this is simply not true. After you’ve spent a reasonable amount of time on a problem, if you’re still stuck, ask as it’s far better to get unstuck quickly than lose productivity struggling in silence.
 
-![Ask For Help](/img/This_is_Fine.png)
+![Ask For Help](img/This_is_Fine.png)
 *If you feel like this, it’s definitely time to reach out!* 
 
 ------------------------------------
@@ -118,7 +118,7 @@ In the final two months of your project, you will transition into Phase 3 and fo
 **19)** **Look to the Future**. In the latter half of your MSc project, set aside time to focus on applying for your next career step so you can transition smoothly after completing your degree. It's important to prioritise your future. While it can be tempting to keep pushing forward with the research, dedicating time to securing your next opportunity is often a far better investment.
 
 
-![Image of Project Timeline](/img/Msc_Project_Timeline.png)
+![Image of Project Timeline](img/Msc_Project_Timeline.png)
 
 ----------------------------------------------------
 
