@@ -69,7 +69,7 @@ To help you get the most out of your MSc project, I put together the following f
 
 **5)** **Objective Ordering**. Determine the order of each objective. What depends on what? What aspects can be completed independently to accelerate progress etc. Best thing is to draw this out as a simple flow chart.  
 
-**6)** **Infastructure** Familiarise yourself with the infrastructure needed to complete the project. *(Git, Apocrita, etc)*
+**6)** **Infrastructure** Familiarise yourself with the infrastructure needed to complete the project. *(Git, Apocrita, etc)*
 
 At the end of phase 1, you should have a game plan (e.g. list of achievable objectives (point 4) and rough order in which to complete them (point 5)) and be equipped with the fundamental skills and knowledge to achieve it.
 
@@ -84,7 +84,7 @@ With the game plan to hand it is time to get stuck into the research. The points
 
 **8)** **Identify Resources**. As the saying goes, there is no point reinventing the wheel, so assess what existing tools, databases, etc, you can use to achieve the objective and linking with point (7) how you can justify their use.  However, in some cases you may find nothing does exist and so you have to build from scratch. This is a good sign as it shows you are at the cutting edge of science and addressing an unmet need!  
 
-**9)** **Start Small & Simple**. Following steps 7 & 8, you should have a rough idea of what's needed to achieve the objective and how you are going to do it! The next thing is to put that in action in the smallest and simplest form first. This allows you to fail quickly, debug the process and overcome any issues as quickly as possible. <Add example here e.g. subset of training data, etc>.  At the end of this step you should have a validated & working workflow.  
+**9)** **Start Small & Simple**. Following steps 7 & 8, you should have a rough idea of what's needed to achieve the objective and how you are going to do it! The next thing is to put that in action in the smallest and simplest form first. This allows you to fail quickly, debug the process and overcome any issues as quickly as possible. At the end of this step you should have a validated & working workflow.  
 
 **10)** **Scale Up**. Once you have validated your workflow it's time to scale up and achieve the objective in full! 
 
@@ -127,7 +127,7 @@ In the final two months of your project, you will transition into Phase 3 and fo
 
 Below are some of the tips & tricks I have picked up along the way which work for me! 
 
-*  Create a **Daily Progress Log**. This does not have to be a fancy task management system, but a simple google doc which helps you keep track of your progress each day, in one place and write down your chain of thought / logic?  
+*  Create a **Daily Progress Log**. This does not have to be a fancy task management system, but a simple google doc which helps you keep track of your progress each day, in one place and write down your chain of thought / logic.  
 
 * Make **Report-Ready Figures** as you go! This will help capture your progress and reduce the burden of report writing.  
 
