@@ -9,7 +9,7 @@ The following guide has been put together to help you get the most out of your M
 **What is the point of your MSc Research Project?** I believe it is to achieve the following 3 goals: 
 
 * Gain real world research experience
-* Enhance & hone your skill set 
+* Enhance your skill set 
 * Launch your next career step.
 
 To get the most out of this MSc project you should take it not only as an opportunity to gain hands on research experience, but use it as a stepping stone, honing and enhancing skills which you need to transition to your next career step.  
@@ -38,7 +38,7 @@ The dissertation should be no more than **10,000 words** and the total duration 
 
 **Do not hesitate to ask for help!** The best mechanism to do this will be via Teams or Email. Also, if you are ever uncertain about any aspect of the project please ask for clarification.  
 
-**Do not hesitate to put ideas forward and back yourself**. If you have an idea which you would like to incorporate into the research project do not hesitate to put this forward! I most certainly do not have the monopoly on good ideas as a supervisor, and the best way to make scientific progress is to voice ideas, discuss and test them together! 
+**Do not hesitate to put ideas forward! Back yourself**. If you have an idea which you would like to incorporate into the research project do not hesitate to put this forward! I most certainly do not have the monopoly on good ideas as a supervisor, and the best way to make scientific progress is to voice ideas, discuss and test them together! 
 
 **Nudge Me** - If I do not respond within 24hrs, please do not take this as me ignoring you. Please send a **reminder email / message**!  I am human and sometimes messages do slip through the cracks on busy days. 
 
@@ -55,7 +55,7 @@ If you ever feel hesitant to ask for help because you worry it might be seen as 
 To help you get the most out of your MSc project, I put together the following framework. This was created to help guide you through the process and provide some clarity of what is expected when.
 
 
------
+-------------
 
 ### **Phase 1** *(Starting Right)* 
 
@@ -140,8 +140,7 @@ Below are some of the tips & tricks I have picked up along the way which work fo
 
 ## **Wellbeing & Balance**
 
-* Remember the MSc project is a marathon & not a sprint. 
-
-* If you feel overwhelmed, try to break the problem down into small manageable tasks to regain and build momentum. 
 
 * Impactful research is hard and the duration of this project is short. Progress may not be as fast as you anticipated. This does not affect your ability to pass; what does affect your ability is how well you evidence your scientific rationale and the effort you made to address the hypothesis and objectives established. 
+
+* Remember the MSc project is a marathon & not a sprint. If you feel overwhelmed, try to break the problem down into small manageable tasks to regain and build momentum. 
