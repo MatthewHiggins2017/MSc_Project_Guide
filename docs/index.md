@@ -1,6 +1,6 @@
 # **MSc Project Guide**
 
-I put the following guide together to try and help you get the most out of your MSc research project. There are many different ways to succeed in scientific research and the tips & tricks shared here are what I have picked up through my own journey so far. Note, this is not exhaustive or the 'only' approach, please adapt it to suit your own learning & research style. 
+I put the following guide together to try and help MSc students get the most out of thier final research projects. There are many different ways to succeed in scientific research and the tips & tricks shared here are what I have picked up through my own journey so far. Note, this is not exhaustive or the 'only' approach, please adapt it to suit your own learning & research style. 
 
 ---------------------------------------------
 
