@@ -69,7 +69,10 @@ To help you get the most out of your MSc project, I put together the following f
 
 **6)** **Infrastructure** Familiarise yourself with the infrastructure needed to complete the project. *(Git, Apocrita, etc)*
 
+
 At the end of phase 1, you should have a game plan, aka, a list of achievable objectives (point 4) and rough order in which to complete them (point 5). 
+
+
 -----
 
 
